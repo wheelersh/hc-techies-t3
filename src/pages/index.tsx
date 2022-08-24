@@ -26,7 +26,7 @@ const Home: NextPage = () => {
           Create <span className="text-purple-400">T3</span> App{" "}
         </h1>
         <h2 className="text-5xl md:text-[5rem] leading-normal font-extrabold text-gray-700">
-          <span className="text-green-400">High Country Techies - Woot</span>
+          <span className="text-brown-400">High Country Techies - Woot</span>
         </h2>
         <div className="pt-6 text-2xl flex justify-center items-center w-full">
           <span>
